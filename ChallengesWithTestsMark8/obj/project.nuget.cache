@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BLLvlV/ytxj0r2ZoyRWHSDq9hHkp9o0uMEhSE7CdcWYjTBuD5SljwsLvJGuQdwHXySgWB5gf+qNlevNfSMh4rg==",
+  "dgSpecHash": "Pfb3QOmNWI6ImvuuDsfYApoxjk6KmncyZhS2O8HrUKPXk8udCH4NyiLEgJA0ADNojRnWlFOvQndmTfmMv4XI8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FAMILY\\Documents\\WEB-DEVELOPMENT\\TrueCoders\\Repos\\Challenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+  "projectFilePath": "C:\\Users\\FAMILY\\Documents\\WEB-DEVELOPMENT\\TrueCoders\\Repos\\WeeklyChallengesDj\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FAMILY\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\FAMILY\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
