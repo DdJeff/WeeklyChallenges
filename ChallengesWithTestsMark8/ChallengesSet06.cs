@@ -7,6 +7,7 @@ namespace ChallengesWithTestsMark8
     {
         public bool CollectionContainsWord(IEnumerable<string> words, string word, bool ignoreCase)
         {
+            //updated 
             throw new NotImplementedException();
         }
 
